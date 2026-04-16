@@ -6,4 +6,5 @@ Improvements:
 4. "New Game" button without needing to restart
 5. Works on mobile too
 
-Live Server :
+Live Server : 
+Vercel Live : https://tic-tac-toe-game-phi-bice.vercel.app
